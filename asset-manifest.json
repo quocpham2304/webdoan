@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webdoan/static/css/main.8569d922.css",
+    "main.js": "/webdoan/static/js/main.5df4c8c3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/webdoan/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/webdoan/index.html",
+    "main.8569d922.css.map": "/webdoan/static/css/main.8569d922.css.map",
+    "main.5df4c8c3.js.map": "/webdoan/static/js/main.5df4c8c3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/webdoan/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8569d922.css",
+    "static/js/main.5df4c8c3.js"
+  ]
+}
