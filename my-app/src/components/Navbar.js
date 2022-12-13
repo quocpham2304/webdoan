@@ -9,7 +9,7 @@ function Navbar() {
         <NavbarBs sticky="top" className="bg-white shadow-lg mb-3">
             <Container>
                 <Nav className="me-auto">
-                    <Nav.Link to="/" as={NavLink}>
+                    <Nav.Link to="/webdoan" as={NavLink}>
                         Home
                     </Nav.Link>
                     <Nav.Link to="/store" as={NavLink}>
